@@ -1,0 +1,14 @@
+id,name,related_resource/id,Deal ID,Owner ID,related_resource/type,assignee_id,due_date,readable,reminder_date,completed_date,priority,status,details,date_created,date_modified,custom_activity_type_id,tags/0,tags/1
+36047047,Month 1 Check In,26462578,8535374915,144564089,opportunity,776162,1650042000,4/15/2022,,,None,Open,Month 1 Check In,1647441101,1647441101,661175,,
+35933517,"check back to schedule another demo with Mark V and Grant for Argus integration, manufactured housing and Rent roll P&L",26474569,8535445135,144594795,opportunity,764998,1647954000,3/22/2022,,,None,Open,,1646855901,1646855902,661175,,
+36077356,Month 3 Check In,26476663,8535466593,144564089,opportunity,776162,1655308800,6/15/2022,,,None,Open,Month 3 Check In,1647558040,1647558040,661175,,
+36077355,Month 2 Check In,26476663,8535466593,144564089,opportunity,776162,1652716800,5/16/2022,,,None,Open,Check In,1647558039,1647558040,661175,,
+36077359,Day 14 Check-in - Call to check-in with new Client,26476663,8535466593,144564089,opportunity,776162,1648771200,4/1/2022,1648753200,,High,Open,"1. Check in with client to see if they have logged into online application and used the database. 
+2. Have they used the templates?
+3. Do they need a training session setup?",1647558040,1647558041,661175,day 14,onboarding
+36077358,Day 7 Check-in - Call to check-in with new Client,26476663,8535466593,144564089,opportunity,776162,1648166400,3/25/2022,1648148400,,High,Open,"1. Check in with client to see if they have logged into online application and used the database. 
+2. Have they used the templates?
+3. Do they need a training session setup?",1647558040,1647558040,661175,day 7,onboarding
+36077354,Month 1 Check In,26476663,8535466593,144564089,opportunity,776162,1650128400,4/16/2022,,,None,Open,Month 1 Check In,1647558039,1647558039,661175,,
+36104714,Month 3 Check In,26548414,8535510148,144564089,opportunity,776162,1655481600,6/17/2022,,,None,Open,Month 3 Check In,1647748511,1647748511,661175,,
+36104905,Month 3 Check In,26548433,8535192912,144564089,opportunity,776162,1655481600,6/17/2022,,,None,Open,Month 3 Check In,1647749432,1647749432,661175,,

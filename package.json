@@ -1,0 +1,39 @@
+{
+  "name": "workflow-template",
+  "version": "1.0.0",
+  "description": "Workflow Template",
+  "main": "./helpers/app.js",
+  "scripts": {
+    "start": "node ./helpers/app.js",
+    "watch": "nodemon ./helpers/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write \"./**/*.{js,jsx,json}\""
+  },
+  "author": "Andrej Kitanovic",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cors": "^2.8.5",
+    "dotenv": "^14.2.0",
+    "express": "^4.17.1",
+    "json-2-csv": "^3.17.1",
+    "lodash": "^4.17.21",
+    "multer": "^1.4.4",
+    "prettier": "^2.6.2",
+    "underscore": "^1.13.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.13.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.29.4",
+    "eslint-plugin-react-hooks": "^4.4.0",
+    "nodemon": "^2.0.15"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
